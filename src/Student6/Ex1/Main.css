@@ -1,0 +1,59 @@
+* {
+  margin: 0px;
+  padding: 0px;
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: lightgray;
+}
+
+#Header :nth-child(1) {
+  background-color: burlywood;
+}
+
+#Header :nth-child(2) {
+  background-color: lightcoral;
+}
+
+.menu {
+  background-color: aqua;
+}
+* {
+  margin: 0px;
+
+  padding: 0px;
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: lightgray;
+}
+
+#Header :nth-child(1) {
+  background-color: burlywood;
+}
+
+#Header :nth-child(2) {
+  background-color: lightcoral;
+}
+
+.menu {
+  background-color: aqua;
+}
+.food {
+    background-color: lemonchiffon;
+}
+.drink {
+    background-color:lightblue;
+}
+
+.dessert {
+    background-color: lightpink;
+}
+
+.footer {
+    background-color: lightgreen;
+}
