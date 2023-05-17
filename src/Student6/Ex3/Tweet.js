@@ -1,10 +1,13 @@
 import React from "react";
 
-export const Tweet = ({message}) => {
+export const Tweet = ({message,color}) => {
   return (
-    <div className="Tweets">
+    <div style={{backgroundColor: `${color}`}}>
    
     {message}
+   
 </div>
+  
   );
 };
+
