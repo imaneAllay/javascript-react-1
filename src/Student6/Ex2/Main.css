@@ -1,9 +1,36 @@
 * {
-    margin: 0px;
-    padding: 0px;
-    font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+
+  padding: 0px;
+
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
-    background-color: lightgray
+  background-color: lightgray;
 }
+
+#Header h1 {
+  background-color: blue;
+}
+
+#Header p {
+  background-color: white;
+}
+
+#footer {
+  background-color: blue;
+}
+
+.Posts ul,
+li {
+  list-style-type: none;
+
+  margin: 20px;
+}
+
+.Groups ul,
+li {
+  margin: 20px;
+}
+/* Stylesheet */
