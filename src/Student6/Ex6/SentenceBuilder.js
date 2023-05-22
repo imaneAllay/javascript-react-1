@@ -17,6 +17,7 @@ export const SentenceBuilder = () => {
   };
 
   return (
+    //We should wrape everything inside a div
     <div>
         <h1>Sentence Builder</h1>
       <p>Sentence: {sentence}</p>
