@@ -1,10 +1,11 @@
 import React from 'react'
 import './Main.css'
+import SentenceBuilder from './SentenceBuilder'
 
 export const Main = () => {
   return (
     <div>
-        Hello I'm student id: 6.
+        <SentenceBuilder/>
     </div>
   )
 }
